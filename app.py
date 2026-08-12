@@ -103,7 +103,8 @@ with col2:
             Astro-RAG
         </h1>
     </div>
-    """, unsafe_allow_html=True)st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
+    """, unsafe_allow_html=True)
+st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
 
 # Example questions as clickable buttons
 st.write("**Try asking:**")
