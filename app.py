@@ -90,7 +90,8 @@ Answer:"""
     return response.text
 
 # ---- UI ----
-st.title("🌌 Astro-RAG")
+st.image("galaxy_icon.jpg", width=80)
+st.title("Astro-RAG")
 st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
 
 # Example questions as clickable buttons
