@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Galaxy Zoo: Quantitative Visual Morphological Classifications for 48,000 galaxies from CANDELS",
+    "abstract": "We present quantified visual morphologies of approximately 48,000 galaxies observed in three Hubble Space Telescope legacy fields by the Cosmic And Near-infrared Deep Extragalactic Legacy Survey (CANDELS) and classified by participants in the Galaxy Zoo project. 90% of galaxies have z < 3 and are observed in rest-frame optical wavelengths by CANDELS. Each galaxy received an average of 40 independent classifications, which we combine into detailed morphological information on galaxy features such as clumpiness, bar instabilities, spiral structure, and merger and tidal signatures. We apply a consensus-based classifier weighting method that preserves classifier independence while effectively down-weighting significantly outlying classifications. After analysing the effect of varying image depth on reported classifications, we also provide depth-corrected classifications which both preserve the information in the deepest observations and also enable the use of classifications at comparable depths across the full survey. Comparing the Galaxy Zoo classifications to previous classifications of the same galaxies shows very good agreement; for some applications the high number of independent classifications provided by Galaxy Zoo provides an advantage in selecting galaxies with a particular morphological profile, while in others the combination of Galaxy Zoo with other classifications is a more promising approach than using any one method alone. We combine the Galaxy Zoo classifications of \"smooth\" galaxies with parametric morphologies to select a sample of featureless disks at 1 < z < 3, which may represent a dynamically warmer progenitor population to the settled disk galaxies seen at later epochs.",
+    "link": "http://arxiv.org/abs/1610.03070v1",
+    "citations": 81
+  },
+  {
+    "title": "Kinematic classification of non-interacting spiral galaxies",
+    "abstract": "Using neutral hydrogen (HI) rotation curves of 79 galaxies, culled from the literature, as well as measured from HI data, we present a method for classifying disk galaxies by their kinematics. In order to investigate fundamental kinematic properties we concentrate on non-interacting spiral galaxies. We employ a simple parameterized form for the rotation curve in order to derive the three parameters: the maximum rotational velocity, the turnover radius and a measure of the slope of the rotation curve beyond the turnover radius. Our approach uses the statistical Hierarchical Clustering method to guide our division of the resultant 3D distribution of galaxies into five classes. Comparing the kinematic classes in this preliminary classification scheme to a number of galaxy properties we find that our class containing galaxies with the largest rotational velocities has a mean morphological type of Sb/Sbc while the other classes tend to later types. Other trends also generally agree with those described by previous researchers. In particular we confirm correlations between increasing maximum rotational velocity and the following observed properties: increasing brightness in B-band, increasing size of the optical disk (D_25) and increasing star formation rate (as derived using radio continuum data). Our analysis also suggests that lower velocities are associated with a higher ratio of the HI mass over the dynamical mass. Additionally, three galaxies exhibit a drop in rotational velocity amplitude of >~ 20% after the turnover radius. However recent investigations suggest that they have interacted with minor companions which is a common cause for declining rotation curves. (Figures 12, 14, 16 and 17 are interactive in the electronic pdf version of this paper.)",
+    "link": "http://arxiv.org/abs/1305.2945v1",
+    "citations": 18
+  },
+  {
+    "title": "Galaxies with Shells in the Illustris Simulation: Metallicity Signatures",
+    "abstract": "Stellar shells are low surface brightness arcs of overdense stellar regions, extending to large galactocentric distances. In a companion study, we identified 39 shell galaxies in a sample of 220 massive ellipticals ($\\mathrm{M}_{\\mathrm{200crit}}>6\\times10^{12}\\,\\mathrm{M}_\\odot$) from the Illustris cosmological simulation. We used stellar history catalogs to trace the history of each individual star particle inside the shell substructures, and we found that shells in high-mass galaxies form through mergers with massive satellites (stellar mass ratios $\u03bc_{\\mathrm{stars}}\\gtrsim1:10$). Using the same sample of shell galaxies, the current study extends the stellar history catalogs in order to investigate the metallicity of stellar shells around massive galaxies. Our results indicate that outer shells are often times more metal-rich than the surrounding stellar material in a galaxy's halo. For a galaxy with two different satellites forming $z=0$ shells, we find a significant difference in the metallicity of the shells produced by each progenitor. We also find that shell galaxies have higher mass-weighted logarithmic metallicities ([Z/H]) at $2$-$4\\,\\mathrm{R}_{\\mathrm{eff}}$ compared to galaxies without shells. Our results indicate that observations comparing the metallicities of stars in tidal features, such as shells, to the average metallicities in the stellar halo can provide information about the assembly histories of galaxies.",
+    "link": "http://arxiv.org/abs/1708.01615v1",
+    "citations": 12
+  },
+  {
+    "title": "The interplay between radio AGN activity and their host galaxies",
+    "abstract": "Radio activity in AGN (Active Galactic Nuclei) produce feedback on the host galaxy via the impact of the relativistic jets on the circumnuclear gas. Although radio jets can reach up to several times the optical radius of the host galaxy, in this review we focus on the observation of the feedback deposited locally in the central region of the host galaxies, in the form of outflows due to the jet-gas interaction. We begin by discussing how galaxy mergers and interactions are the most favored scenario for triggering radio AGN after gas accretion to the nuclear supermassive black hole and star formation enhancement in the nuclear region, observed in particular in the most luminous sources. We then discuss observational signatures of the process of jet-gas coupling, in particular the resulting outflows and their effects on the host galaxy. These include the presence of shock signatures and the detection of outflows not only along the radio jet but perpendicular to it in many sources. Although most of the studies are done via the observation of ionized gas, molecular gas is also being increasingly observed in outflow, contributing to the bulk of the mass outflow rate. Even though most radio sources present outflow kinetic powers that do not reach $1\\%\\,L_{bol}$, and thus do not seem to provide an immediate impact on the host galaxy, they act to heat the ISM gas, preventing star formation, slowing the galaxy mass build-up process and limiting the stellar mass growth, in a ``maintenance mode\" feedback.",
+    "link": "http://arxiv.org/abs/2303.12033v1",
+    "citations": 6
+  },
+  {
+    "title": "Isolated Galaxies versus Interacting Pairs with MaNGA",
+    "abstract": "We present preliminary results of the spectral analysis on the radial distributions of the star formation history in both, a galaxy merger and a spiral isolated galaxy observed with MaNGA. We find that the central part of the isolated galaxy is composed by older stellar population ($\\sim$2 Gyr) than in the outskirts ($\\sim$7 Gyr). Also, the time-scale is gradually larger from 1 Gyr in the inner part to 3 Gyr in the outer regions of the galaxy. In the case of the merger, the stellar population in the central region is older than in the tails, presenting a longer time-scale in comparison to central part in the isolated galaxy. Our results are in agreement with a scenario where spiral galaxies are built from inside-out. In the case of the merger, we find evidence that interactions enhance star formation in the central part of the galaxy.",
+    "link": "http://arxiv.org/abs/1510.08179v1",
+    "citations": 3
+  },
+  {
+    "title": "Living with Neighbors. V. Better-aligned Spiral+Spiral Galaxy Pairs Show Stronger Star Formation",
+    "abstract": "Enhanced star formation (SF) with star-forming neighboring galaxies bolsters hydrodynamical contributions during paired interactions. Although the relative spin orientation between interacting galaxies can influence this effect, it has not been comprehensively explored. In this study, using a curated sample of nearby (0.02 < z < 0.06) spiral-spiral pairs and an isolated control sample from the Sloan Digital Sky Survey Data Release 7, coupled with Galaxy Zoo 2, and a method to estimate spin-spin alignment (SSA), we systematically compare the impact of the relative orientation, $\\cos\u03be$, on interaction-induced SF. We find that SSA is a key factor alongside the conventional parameters of projected separation and the SF of neighboring galaxies. The SF enhancement increases as configurations transition from perpendicular ($\\cos\u03be\\sim 0$) to well aligned ($\\cos\u03be> 0.7$). The effect is strongest when neighboring galaxies have higher SF, indicating a hydrodynamical origin. The trend is consistent with increased hydrodynamical friction via stronger ram pressure and a higher likelihood of prograde orbits in well-aligned pairs.",
+    "link": "http://arxiv.org/abs/2510.22156v1",
+    "citations": 2
+  },
+  {
+    "title": "Twelve Years of Galaxy Zoo",
+    "abstract": "The Galaxy Zoo (GZ) project has provided quantitative visual morphologies for over a million galaxies, and has been part of a reinvigoration of interest in the morphologies of galaxies and what they reveal about galaxy evolution. Morphological information collected by GZ has shown itself to be a powerful tool for studying galaxy evolution, and GZ continues to collect classifications - currently serving imaging from DECaLS in its main site, and running a variety of related projects hosted by the Zooniverse; the citizen science platform which came out of the early success of GZ. I highlight some of the results from the last twelve years, with a particular emphasis on linking morphology and dynamics, look forward to future projects in the GZ family, and provide a quick start guide for how you can easily make use of citizen science techniques to analysis your own large and complex data sets.",
+    "link": "http://arxiv.org/abs/1910.08177v1",
+    "citations": 0
+  },
+  {
+    "title": "Physical Morphology of Galaxies using Asymmetry",
+    "abstract": "We demonstrate in this paper the use of asymmetry in conjunction with the integrated (B-V) color of galaxies for physical morphological purposes. We show how color-asymmetry diagrams can be used to distinguish between various types of galaxies, including ellipticals, late and early type disks, irregulars and interacting/merging galaxies. We also show how asymmetry can be used to help decipher the morphology of nearby starbursts, and galaxies in the Hubble Deep Field.",
+    "link": "http://arxiv.org/abs/astro-ph/9910119v1",
+    "citations": 0
+  },
+  {
+    "title": "The Morphological Evolution of Galaxies",
+    "abstract": "Many galaxies appear to have taken on their familiar appearance relatively recently. In the distant Universe, galaxy morphology started to deviate significantly (and systematically) from that of nearby galaxies at redshifts, z, as low as z = 0.3. This corresponds to a time ~3.5 Gyr in the past, which is only ~25% of the present age of the Universe. Beyond z = 0.5 (5 Gyr in the past) spiral arms are less well-developed and more chaotic, and barred spiral galaxies may become rarer. By z = 1, around 30% of the galaxy population is sufficiently peculiar that classification on Hubble's traditional tuning fork system is meaningless. On the other hand, some characteristics of galaxies do not seem to have changed much over time. The co-moving space density of luminous disk galaxies has not changed significantly since z = 1, indicating that while the general appearance of these objects has continuously changed with cosmic epoch, their overall numbers have been conserved. Attempts to explain these results with hierarchical models for the formation of galaxies have met with mixed success.",
+    "link": "http://arxiv.org/abs/astro-ph/0109358v1",
+    "citations": 0
+  },
+  {
+    "title": "Black hole growth and host galaxy morphology",
+    "abstract": "We use data from large surveys of the local Universe (SDSS+Galaxy Zoo) to show that the galaxy-black hole connection is linked to host morphology at a fundamental level. The fraction of early-type galaxies with actively growing black holes, and therefore the AGN duty cycle, declines significantly with increasing black hole mass. Late-type galaxies exhibit the opposite trend: the fraction of actively growing black holes increases with black hole mass.",
+    "link": "http://arxiv.org/abs/1002.1488v1",
+    "citations": 0
+  },
+  {
+    "title": "Galaxy Zoo: an unusual new class of galaxy cluster",
+    "abstract": "We have identified a new class of galaxy cluster using data from the Galaxy Zoo project. These clusters are rare, and thus have apparently gone unnoticed before, despite their unusual properties. They appear especially anomalous when the morphological properties of their component galaxies are considered. Their identification therefore depends upon the visual inspection of large numbers of galaxies, a feat which has only recently been made possible by Galaxy Zoo, together with the Sloan Digital Sky Survey. We present the basic properties of our cluster sample, and discuss possible formation scenarios and implications for cosmology.",
+    "link": "http://arxiv.org/abs/0903.5377v1",
+    "citations": 0
+  },
+  {
+    "title": "Supermassive Black Holes and Galaxy Morphology",
+    "abstract": "This review addresses one of the important topics of current astrophysical research, namely the role that supermassive black holes play in shaping the morphology of their host galaxies. There is increasing evidence for the presence of massive black holes at the centers of all galaxies and many efforts are directed at understanding the processes that lead to their formation, the duty cycle for the active phase and the question of the fueling mechanism. Related issues are the epoch of formation of the supermassive black holes, their time evolution and growth and the role they play in the early ionization of the Universe. Considerable observational and theoretical work has been carried out in this field over the last few years and I review some of the recent key areas of progress.",
+    "link": "http://arxiv.org/abs/astro-ph/9910089v1",
+    "citations": 0
+  },
+  {
+    "title": "The SAMI Galaxy Survey: first 1000 galaxies",
+    "abstract": "The Sydney-AAO Multi-object Integral field spectrograph (SAMI) Galaxy Survey is an ongoing project to obtain integral field spectroscopic observations of ~3400 galaxies by mid-2016. Including the pilot survey, a total of ~1000 galaxies have been observed to date, making the SAMI Galaxy Survey the largest of its kind in existence. This unique dataset allows a wide range of investigations into different aspects of galaxy evolution.   The first public data from the SAMI Galaxy Survey, consisting of 107 galaxies drawn from the full sample, has now been released. By giving early access to SAMI data for the entire research community, we aim to stimulate research across a broad range of topics in galaxy evolution. As the sample continues to grow, the survey will open up a new and unique parameter space for galaxy evolution studies.",
+    "link": "http://arxiv.org/abs/1409.4147v1",
+    "citations": 0
+  },
+  {
+    "title": "Morphological Classification of Galaxies",
+    "abstract": "The morphological classification of galaxies provides vital physical information about the orbital motions of stars in galaxies, and correlates in interesting ways with star formation history, and other physical properties. Galaxy morphological classification is a field with a history of more than 100 years of development, and many scientists have introduced new classification schemes, resulting in a sometimes confusing array of terminologies and overlapping classes. In this article I provide a brief historical review of galaxy classification, but focus mostly on providing a summary of how the morphological variety of galaxies seen in our expanding Universe are described. I review traditional visual classification, morphometric measurements, crowd-sourcing for large scale visual classifications (Galaxy Zoo), and of course the recent explosion of interest in making use of machine learning techniques for galaxy morphology classification. A look up table is provided for cross matching of various terminologies currently in use for galaxy morphology classification as well as brief definitions of the main morphological types.",
+    "link": "http://arxiv.org/abs/2502.09610v1",
+    "citations": 0
+  },
+  {
+    "title": "The Prime Focus Spectrograph Galaxy Evolution Survey",
+    "abstract": "We present the Prime Focus Spectrograph (PFS) Galaxy Evolution pillar of the 360-night PFS Subaru Strategic Program. This 130-night program will capitalize on the wide wavelength coverage and massive multiplexing capabilities of PFS to study the evolution of typical galaxies from cosmic dawn to the present. From Lyman alpha emitters at z~7 to probe reionization, drop-outs at z~3 to map the inter-galactic medium in absorption, and a continuum-selected sample at z~1.5, we will chart the physics of galaxy evolution within the evolving cosmic web. This article is dedicated to the memory of Olivier Le Fevre, who was an early advocate for the construction of PFS, and a key early member of the Galaxy Evolution Working Group.",
+    "link": "http://arxiv.org/abs/2206.14908v1",
+    "citations": 0
+  },
+  {
+    "title": "The Kinematic Morphology-Density Relation from the SAMI Pilot Survey",
+    "abstract": "We present the kinematic morphology-density relation in three galaxy clusters, Abell 85, 168 and 2399, using data from the SAMI Pilot Survey. We classify the early-type galaxies in our sample as fast or slow rotators (FRs/SRs) according to a measured proxy for their projected specific stellar angular momentum. We find each cluster contains both fast and slow rotators with and average fraction of SRs in the sample of $f_{SR}=0.15\\pm$0.04. We investigate this fraction within each cluster as a function of local projected galaxy density. For Abell 85 we find that $f_{SR}$ increases at high local density but for Abell 168 and 2399 this trend is not seen. We find SRs not just at the centres of our clusters but also on the outskirts and hypothesise that these SRs may have formed in group environments eventually accreted to the larger cluster.",
+    "link": "http://arxiv.org/abs/1409.7271v1",
+    "citations": 0
+  },
+  {
+    "title": "A rich bounty of AGN in the 9 square degree Bootes survey: high-z obscured AGN and large-scale structure",
+    "abstract": "We use observations from the 9 square degree multiwavelength survey in Bootes to identify hundreds of obscured active galactic nuclei (AGN) with high redshifts (z > 0.7), luminosities (L_bol > 10^45 ergs/s), and moderate obscuring columns (N_H > 10^22 cm^-2), and to measure the clustering properties of X-ray AGN at z > 1. In the Bootes region, shallow (5 ks) Chandra X-ray observations have detected ~4,000 X-ray sources, and the same region has been mapped with deep optical imaging and by Spitzer IRAC, which detects ~300,000 point sources, of which ~30,000 have detections in all four IRAC bands, for which we can select AGN on the basis of their mid-IR colors. With the MMT/Hectospec we have obtained modest resolution optical spectra for about half the X-ray sources (out to z > 3) and ~20,000 galaxies (out to z = 0.7). With this multiwavelength data we select >400 AGN per square degree (compared to 12 per square degree from SDSS). Among a sample of IRAC-selected AGN we identify 641 candidate obscured objects based on their R band and IRAC luminosities. We use X-ray stacking techniques to verify that they are obscured AGN and measure their absorbing column densities. We also measure the three-dimensional two-point correlation function for X-ray selected AGN.",
+    "link": "http://arxiv.org/abs/astro-ph/0611654v1",
+    "citations": 0
+  },
+  {
+    "title": "Properties of barred galaxies in the MaNGA galaxy survey",
+    "abstract": "We present the initial results of a census of 684 barred galaxies in the MaNGA galaxy survey. This large sample contains galaxies with a wide range of physical properties, and we attempt to link bar properties to key observables for the whole galaxy. We find the length of the bar, when normalised for galaxy size, is correlated with the distance of the galaxy from the star formation main sequence, with more passive galaxies hosting larger-scale bars. Ionised gas is observed along the bars of low-mass galaxies only, and these galaxies are generally star-forming and host short bars. Higher-mass galaxies do not contain H\u03b1 emission along their bars, however, but are more likely to host rings or H\u03b1 at the centre and ends of the bar. Our results suggest that different physical processes are at play in the formation and evolution of bars in low- and high-mass galaxies.",
+    "link": "http://arxiv.org/abs/1908.08350v1",
+    "citations": 0
+  },
+  {
+    "title": "The Methanol Multibeam Survey",
+    "abstract": "A purpose built 7-beam methanol receiver, installed on the Parkes Radio Telescope, was used to survey the Galactic plane for newly forming high mass stars, pinpointed by strong methanol maser emission at 6.7 GHz. The Methanol Multibeam (MMB) survey observed over 60% of the Galactic plane, detecting close to 1000 sources. The MMB survey provides a huge resource for studies of high-mass star formation, an important stage in the evolution of the interstellar medium. The MMB survey is also a valuable resource for investigations into the structure and dynamics of our Galaxy: with narrow velocity ranges of emission (typically only a few km/s) and velocities closely correlated with the systemic velocity of their surrounding molecular clouds, 6.7-GHz methanol masers provide estimates of the spiral arm velocities and their structure. I will discuss the techniques and properties of the MMB survey, before outlining recent results, which include the identification of regions of enhanced star formation believed to be indicative of the origins of the spiral arms and the interaction of the Galactic bar with the 3-kpc arms. I will also discuss the various follow-up programmes including a study of magnetic fields through associated hydroxyl masers.",
+    "link": "http://arxiv.org/abs/1210.0979v1",
+    "citations": 0
+  },
+  {
+    "title": "The Dark Energy Survey",
+    "abstract": "We describe the Dark Energy Survey (DES), a proposed optical-near infrared survey of 5000 sq. deg of the South Galactic Cap to ~24th magnitude in SDSS griz, that would use a new 3 sq. deg CCD camera to be mounted on the Blanco 4-m telescope at Cerro Telolo Inter-American Observatory (CTIO). The survey data will allow us to measure the dark energy and dark matter densities and the dark energy equation of state through four independent methods: galaxy clusters, weak gravitational lensing tomography, galaxy angular clustering, and supernova distances. These methods are doubly complementary: they constrain different combinations of cosmological model parameters and are subject to different systematic errors. By deriving the four sets of measurements from the same data set with a common analysis framework, we will obtain important cross checks of the systematic errors and thereby make a substantial and robust advance in the precision of dark energy measurements.",
+    "link": "http://arxiv.org/abs/astro-ph/0510346v1",
+    "citations": 0
+  },
+  {
+    "title": "iPregel: Strategies to Deal with an Extreme Form of Irregularity in Vertex-Centric Graph Processing",
+    "abstract": "Over the last decade, the vertex-centric programming model has attracted significant attention in the world of graph processing, resulting in the emergence of a number of vertex-centric frameworks. Its simple programming interface, where computation is expressed from a vertex point of view, offers both ease of programming to the user and inherent parallelism for the underlying framework to leverage. However, vertex-centric programs represent an extreme form of irregularity, both inter and intra core. This is because they exhibit a variety of challenges from a workload that may greatly vary across supersteps, through fine-grain synchronisations, to memory accesses that are unpredictable both in terms of quantity and location. In this paper, we explore three optimisations which address these irregular challenges; a hybrid combiner carefully coupling lock-free and lock-based combinations, the partial externalisation of vertex structures to improve locality and the shift to an edge-centric representation of the workload. The optimisations were integrated into the iPregel vertex-centric framework, enabling the evaluation of each optimisation in the context of graph processing across three general purpose benchmarks common in the vertex-centric community, each run on four publicly available graphs covering all orders of magnitude from a million to a billion edges. The result of this work is a set of techniques which we believe not only provide a significant performance improvement in vertex-centric graph processing, but are also applicable more generally to irregular applications.",
+    "link": "http://arxiv.org/abs/2010.01542v1",
+    "citations": 0
+  },
+  {
+    "title": "Evolutionary synthesis models for spirals and irregular galaxies",
+    "abstract": "We show autoconsistent chemical and spectro-photometric evolution models applied to spiral and irregular galaxies. Evolutionary synthesis models usually used to explain the stellar component spectro-photometric data, are combined with chemical evolution models, to determine precisely the evolutionary history of spiral and irregular galaxies. In this piece of work we will show the results obtained for a wide grid of modeled theoretical galaxies",
+    "link": "http://arxiv.org/abs/astro-ph/0701756v1",
+    "citations": 0
+  },
+  {
+    "title": "The Initial Cluster Mass Function of Super Star Clusters in Irregular and Spiral Galaxies",
+    "abstract": "The initial cluster mass function (ICMF) is a fundamental property of star formation in galaxies. To gauge its universality, we measure and compare the ICMFs in irregular and spiral galaxies. Our sample of irregular galaxies is based on 13 nearby galaxies selected from a volume-limited sample from the fifth data release of the Sloan Digital Sky Survey (SDSS). The extinctions, ages, and masses were determined by comparing their u'g'i'z' magnitudes to those generated from starburst models. Completeness corrections were performed using Monte Carlo simulations in which artificial clusters were inserted into each galaxy. We analyzed three nearby spiral galaxies with SDSS data in exactly the same way to derive their ICMF based on a similar number of young, massive clusters as the irregular galaxy ICMF. We find that the ICMFs of irregular and spiral galaxies for masses >3x10^4 M_sun are statistically indistinguishable. For clusters more massive than 3x10^4 M_sun, the ICMF of the irregular galaxies is reasonably well fit by a power law dN(M)/dM ~ M^-a_M with a_M = 1.88 +/- 0.09. Similar results were obtained for the ICMF of the spiral galaxy sample but with a_M = 1.75 +/- 0.06. We discuss the implications of our result for theories of star cluster formation: the shape of the ICMF appears to be independent of metallicity and galactic shear rate.",
+    "link": "http://arxiv.org/abs/astro-ph/0611586v3",
+    "citations": 0
+  },
+  {
+    "title": "Spiral Galaxies with HST - Near Infrared Properties of Bulges",
+    "abstract": "We have obtained HST_NICMOS images for 72 nearby spiral galaxy bulges in the H-band. These data show that galaxies with regular bulges have steeper nuclear cusps than galaxies with irregular bulges. We also show that galaxies with regular bulges fall on the same part of the (<\u03b3>, magnitude)-diagram as elliptical galaxies. This implies that early-type spiral galaxy bulges have a formation process in common with ellipticals.",
+    "link": "http://arxiv.org/abs/astro-ph/9908194v1",
+    "citations": 0
+  },
+  {
+    "title": "Interaction-Triggered Star Formation in Distant Galaxies and the Role of Mergers in Galaxy Evolution",
+    "abstract": "The evolution of galaxy merger rates and its impact on galaxy properties have been studied intensively over the last decade. It becomes clear now that various types of mergers, i.e. gas-rich (wet), gas-poor (dry), or mixed mergers, affect the merger products in different ways. The epoch when each type of merger dominates also differs. In this talk, I review the recent progress on the measurements of galaxy merger rates out to z ~ 3 and the level of interaction-triggered star formation using large samples from various redshift surveys. These results provide insights to the importance of mergers in the mass assembly history of galaxies and in the evolution of galaxy properties. I also present new results in characterizing the environment of galaxy mergers, and discuss their implications in the built up of red-sequence galaxies.",
+    "link": "http://arxiv.org/abs/0910.2554v2",
+    "citations": 0
+  }
+]
