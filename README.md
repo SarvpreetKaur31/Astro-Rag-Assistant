@@ -1,3 +1,5 @@
+🔗 **Live App:** https://astro-rag-assistant.streamlit.app
+
 # Astro-RAG: Galaxy Research Assistant
 
 A Retrieval-Augmented Generation (RAG) system that answers questions about galaxy morphology, classification, and mergers, grounded in real astrophysics papers from arXiv.
