@@ -32,6 +32,15 @@ arXiv API fetches and filters papers for relevance, then Semantic Scholar API ra
 - Relevance filtering: Raw keyword search returned some off-topic results (e.g., generic ML papers); added a keyword-based relevance filter before embedding to improve data quality.
 - Rate-limit handling: Implemented exponential backoff for Semantic Scholar API calls to handle free-tier rate limits gracefully.
 
+## Evaluation
+
+Ran precision@3 evaluation across 8 domain-specific test questions (covering 
+spiral/irregular classification, mergers, elliptical galaxies, and deep 
+learning methods), achieving **66.7% average precision**. Analysis showed 
+that citation-based ranking underrepresented some topically important but 
+less-cited papers (e.g., galaxy mergers), identifying a data-coverage gap 
+as the primary limitation rather than embedding/retrieval quality.
+
 ## Running Locally
 
 Install dependencies with pip install -r requirements.txt, add your Gemini API key to a .env file as GEMINI_API_KEY=your_key_here, then run python fetch_data.py to fetch and rank papers, python build_index.py to generate embeddings and build the FAISS index, and streamlit run app.py to launch the app.
