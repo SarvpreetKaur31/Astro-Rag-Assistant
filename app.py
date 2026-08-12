@@ -90,12 +90,20 @@ Answer:"""
     return response.text
 
 # ---- UI ----
-col1, col2 = st.columns([1, 4])
+col1, col2 = st.columns([1, 5], gap="small")
 with col1:
     st.image("galaxy_icon.jpg", width=80)
 with col2:
-    st.title("Astro-RAG")
-st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
+    st.markdown("""
+    <div style="margin-left:-40px; padding-top:10px;">
+        <h1 style="background: linear-gradient(90deg, #a78bfa, #60a5fa);
+                   -webkit-background-clip: text;
+                   -webkit-text-fill-color: transparent;
+                   font-weight: 800; margin:0;">
+            Astro-RAG
+        </h1>
+    </div>
+    """, unsafe_allow_html=True)st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
 
 # Example questions as clickable buttons
 st.write("**Try asking:**")
