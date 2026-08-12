@@ -90,8 +90,11 @@ Answer:"""
     return response.text
 
 # ---- UI ----
-st.image("galaxy_icon.jpg", width=80)
-st.title("Astro-RAG")
+col1, col2 = st.columns([1, 4])
+with col1:
+    st.image("galaxy_icon.jpg", width=80)
+with col2:
+    st.title("Astro-RAG")
 st.caption("Ask questions about galaxy morphology & classification — grounded in real, citation-ranked arXiv papers")
 
 # Example questions as clickable buttons
