@@ -92,14 +92,14 @@ Answer:"""
 # ---- UI ----
 col1, col2 = st.columns([1, 5], gap="small")
 with col1:
-    st.image("galaxy_icon.jpg", width=80)
+    st.image("galaxy_icon.jpg", width=70)
 with col2:
     st.markdown("""
-    <div style="margin-left:-40px; padding-top:10px;">
+    <div style="margin-left:-30px; height:70px; display:flex; align-items:center;">
         <h1 style="background: linear-gradient(90deg, #a78bfa, #60a5fa);
                    -webkit-background-clip: text;
                    -webkit-text-fill-color: transparent;
-                   font-weight: 800; margin:0;">
+                   font-weight: 800; margin:0; font-size:42px; line-height:1;">
             Astro-RAG
         </h1>
     </div>
